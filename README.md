@@ -10,7 +10,7 @@
 ## 🌐 Live Demo
 
 👉 **Try the App:**
-🔗 https://resume-classifier-chintan.azurewebsites.net
+🔗 https://resumeintelligence-smart-cv-classifier.streamlit.app/
 
 ---
 
