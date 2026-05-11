@@ -16,9 +16,9 @@
 
 ## 👨‍💻 Author
 
-**Chintan Patel**
-🔗 GitHub: https://github.com/chintan-02
-💼 LinkedIn: https://www.linkedin.com/in/chintan-patel-987765129/
+**Ibrahim Irfan Maghfoor**
+🔗 GitHub: https://github.com/Ibrahim278
+💼 LinkedIn: https://www.linkedin.com/in/ibrahim-irfan-maghfoor/
 
 ---
 
@@ -142,8 +142,8 @@ smart-resume-classifier-skill-extractor/
 ## 💻 Run Locally
 
 ```bash
-git clone https://github.com/chintan-02/smart-resume-classifier
-cd smart-resume-classifier
+git clone https://github.com/Ibrahim278/ResumeIntelligence-A-Smart-CV-Classifier-and-Predictor
+cd ResumeIntelligence-A-Smart-CV-Classifier-and-Predictor
 
 python3.11 -m venv venv
 source venv/bin/activate
